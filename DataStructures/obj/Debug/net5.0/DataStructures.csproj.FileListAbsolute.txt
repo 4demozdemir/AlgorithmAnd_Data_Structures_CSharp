@@ -1,0 +1,12 @@
+C:\Users\edemo\source\repos\AlgorithmAnd_Data_Structures\DataStructures\bin\Debug\net5.0\DataStructures.deps.json
+C:\Users\edemo\source\repos\AlgorithmAnd_Data_Structures\DataStructures\bin\Debug\net5.0\DataStructures.dll
+C:\Users\edemo\source\repos\AlgorithmAnd_Data_Structures\DataStructures\bin\Debug\net5.0\DataStructures.pdb
+C:\Users\edemo\source\repos\AlgorithmAnd_Data_Structures\DataStructures\obj\Debug\net5.0\DataStructures.csproj.AssemblyReference.cache
+C:\Users\edemo\source\repos\AlgorithmAnd_Data_Structures\DataStructures\obj\Debug\net5.0\DataStructures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edemo\source\repos\AlgorithmAnd_Data_Structures\DataStructures\obj\Debug\net5.0\DataStructures.AssemblyInfoInputs.cache
+C:\Users\edemo\source\repos\AlgorithmAnd_Data_Structures\DataStructures\obj\Debug\net5.0\DataStructures.AssemblyInfo.cs
+C:\Users\edemo\source\repos\AlgorithmAnd_Data_Structures\DataStructures\obj\Debug\net5.0\DataStructures.csproj.CoreCompileInputs.cache
+C:\Users\edemo\source\repos\AlgorithmAnd_Data_Structures\DataStructures\obj\Debug\net5.0\DataStructures.dll
+C:\Users\edemo\source\repos\AlgorithmAnd_Data_Structures\DataStructures\obj\Debug\net5.0\refint\DataStructures.dll
+C:\Users\edemo\source\repos\AlgorithmAnd_Data_Structures\DataStructures\obj\Debug\net5.0\DataStructures.pdb
+C:\Users\edemo\source\repos\AlgorithmAnd_Data_Structures\DataStructures\obj\Debug\net5.0\ref\DataStructures.dll
