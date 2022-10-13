@@ -1,0 +1,16 @@
+C:\Users\edemo\source\repos\AlgorithmAnd_Data_Structures\CSharp_Project\bin\Release\net5.0\CSharp_Project.exe
+C:\Users\edemo\source\repos\AlgorithmAnd_Data_Structures\CSharp_Project\bin\Release\net5.0\CSharp_Project.deps.json
+C:\Users\edemo\source\repos\AlgorithmAnd_Data_Structures\CSharp_Project\bin\Release\net5.0\CSharp_Project.runtimeconfig.json
+C:\Users\edemo\source\repos\AlgorithmAnd_Data_Structures\CSharp_Project\bin\Release\net5.0\CSharp_Project.runtimeconfig.dev.json
+C:\Users\edemo\source\repos\AlgorithmAnd_Data_Structures\CSharp_Project\bin\Release\net5.0\CSharp_Project.dll
+C:\Users\edemo\source\repos\AlgorithmAnd_Data_Structures\CSharp_Project\bin\Release\net5.0\CSharp_Project.pdb
+C:\Users\edemo\source\repos\AlgorithmAnd_Data_Structures\CSharp_Project\obj\Release\net5.0\CSharp_Project.csproj.AssemblyReference.cache
+C:\Users\edemo\source\repos\AlgorithmAnd_Data_Structures\CSharp_Project\obj\Release\net5.0\CSharp_Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edemo\source\repos\AlgorithmAnd_Data_Structures\CSharp_Project\obj\Release\net5.0\CSharp_Project.AssemblyInfoInputs.cache
+C:\Users\edemo\source\repos\AlgorithmAnd_Data_Structures\CSharp_Project\obj\Release\net5.0\CSharp_Project.AssemblyInfo.cs
+C:\Users\edemo\source\repos\AlgorithmAnd_Data_Structures\CSharp_Project\obj\Release\net5.0\CSharp_Project.csproj.CoreCompileInputs.cache
+C:\Users\edemo\source\repos\AlgorithmAnd_Data_Structures\CSharp_Project\obj\Release\net5.0\CSharp_Project.dll
+C:\Users\edemo\source\repos\AlgorithmAnd_Data_Structures\CSharp_Project\obj\Release\net5.0\refint\CSharp_Project.dll
+C:\Users\edemo\source\repos\AlgorithmAnd_Data_Structures\CSharp_Project\obj\Release\net5.0\CSharp_Project.pdb
+C:\Users\edemo\source\repos\AlgorithmAnd_Data_Structures\CSharp_Project\obj\Release\net5.0\CSharp_Project.genruntimeconfig.cache
+C:\Users\edemo\source\repos\AlgorithmAnd_Data_Structures\CSharp_Project\obj\Release\net5.0\ref\CSharp_Project.dll
